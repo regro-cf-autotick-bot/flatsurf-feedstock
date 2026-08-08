@@ -15,7 +15,7 @@ cxx_compiler:
 cxx_compiler_version:
 - '19'
 fmt:
-- '11.2'
+- '12.1'
 gmp:
 - '6'
 libboost_devel:
@@ -29,7 +29,7 @@ libexactreal:
 libflatsurf:
 - '3'
 libflint:
-- '3.3'
+- '3.5'
 libintervalxt:
 - '3'
 macos_machine:
